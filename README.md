@@ -1,2 +1,3 @@
 # myTicTacToeGame
-play this game...got a cool interface
+play this game I developed for my class project...
+got a cool interface
